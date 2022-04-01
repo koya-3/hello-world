@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name"><b>Enter FirstName</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter First Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter Phonenumber</b></label>
